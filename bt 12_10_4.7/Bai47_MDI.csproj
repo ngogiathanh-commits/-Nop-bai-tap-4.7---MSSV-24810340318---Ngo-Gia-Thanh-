@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>Bai47_MDI</RootNamespace>
+    <AssemblyName>Bai47_MDI</AssemblyName>
+    <ApplicationTitle>Hệ thống quản lý MDI - Bài 4.7</ApplicationTitle>
+  </PropertyGroup>
+</Project>
