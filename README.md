@@ -16,7 +16,8 @@
 
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](https://github.com/user-attachments/assets/ddd6e86c-7865-4ffa-897c-e967ecbeb304")(https://github.com/user-attachments/assets/980bb601-ab4c-4ddd-ae63-8aac28b408d0)
+![Thực thi chức năng](https://github.com/user-attachments/assets/ddd6e86c-7865-4ffa-897c-e967ecbeb304) 
+(https://github.com/user-attachments/assets/980bb601-ab4c-4ddd-ae63-8aac28b408d0)
 
 
 
